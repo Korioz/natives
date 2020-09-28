@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x9614299DCB53E54B 0x13EFB9A0
-void DELETE_PED(Ped* ped);
+void DELETE_PED(Ped ped);
 ```
 
 ```
