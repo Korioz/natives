@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0x3AE22DEB5BA5A3E6 0x3F6B949F
-void SET_OBJECT_AS_NO_LONGER_NEEDED(Object* object);
+void SET_OBJECT_AS_NO_LONGER_NEEDED(Object object);
 ```
 
 ```
