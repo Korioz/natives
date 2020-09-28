@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0xAC6D445B994DF95E 0x4FFB8C6C
-void REMOVE_PED_ELEGANTLY(Ped* ped);
+void REMOVE_PED_ELEGANTLY(Ped ped);
 ```
 
 ```
