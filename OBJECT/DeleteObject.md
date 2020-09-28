@@ -5,7 +5,7 @@ ns: OBJECT
 
 ```c
 // 0x539E0AE3E6634B9F 0xD6EF9DA7
-void DELETE_OBJECT(Object* object);
+void DELETE_OBJECT(Object object);
 ```
 
 ```
