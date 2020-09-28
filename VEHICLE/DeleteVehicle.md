@@ -5,7 +5,7 @@ ns: VEHICLE
 
 ```c
 // 0xEA386986E786A54F 0x9803AF60
-void DELETE_VEHICLE(Vehicle* vehicle);
+void DELETE_VEHICLE(Vehicle vehicle);
 ```
 
 ```
