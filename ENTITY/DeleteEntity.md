@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0xAE3CBE5BF394C9C9 0xFAA3D236
-void DELETE_ENTITY(Entity* entity);
+void DELETE_ENTITY(Entity entity);
 ```
 
 ```
